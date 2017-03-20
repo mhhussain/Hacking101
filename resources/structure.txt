@@ -1,0 +1,32 @@
+
+-- HACKING!
+-- disclaimer: don't do anything illegal
+
+-- Hacking 101
+-- i will not be doing a demo of actual hacking. im sorry. i would have loved to, but the amount of setup required was just too much. if this presentation is received well, then ill try to set something up.
+-- what i will be talking about today is the following:
+    -- Definition of hacking
+    -- Types of hackers
+    -- Anonymity and infiltration
+-- why am i doing this?
+-- we often don't think about hacking as a real thing. we see it in tv shows, and to us it seems so stupid and abstract hearing "isolate the node and dump him on the other side of the router."
+    -- https://www.youtube.com/watch?v=u8qgehH3kEQ
+    -- that's not how hacking works, and it's infuriating. im hoping by the end of this, every here has a reasonable and accurate understanding of what hacking actually is, and can appreciate the subtle beauty and the terrible nature of it. really only a computer scientist is capable of understanding and appreciating the ideas used in hacking.
+-- Definition
+-- Types of hackers
+    -- White hat
+    -- Black hat
+    -- Gray hat
+-- Anonymity vs infiltration
+    -- you plan a heist, you gotta have a plan. basically how do you not get caught
+-- Anonymity
+    -- why linux
+    -- Proxy chains
+    -- Tor and VPN
+    -- macchanger
+
+-- Infiltration
+    -- Footprinting and nmap
+    -- DOS/DDOS and signal jamming
+    -- Reverse shell
+    -- Bonus round: rainbow tables
