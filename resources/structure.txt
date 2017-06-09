@@ -32,3 +32,13 @@
     -- DOS/DDOS and signal jamming
     -- Reverse shell
     -- Bonus round: rainbow tables
+
+-- Usecases
+    -- DOS networks
+    -- Backdoors
+        -- Trojan, malware
+        -- Wordpress plugins
+    -- Linux kernel hack
+    -- Phishing and ransomware
+        -- Evil twin
+    -- Man in the middle
